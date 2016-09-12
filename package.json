@@ -25,7 +25,7 @@
   "devDependencies": {
     "nodeos-barebones": "1.0.0-RC2.2",
     "nodeos-initramfs": "1.0.0-RC2.3",
-    "qemu": "NodeOS/qemu"
+    "qemu": "luii/qemu"
   },
   "description": "Generate a bootable NodeOS disk image",
   "main": "index.js",
